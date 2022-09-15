@@ -1,0 +1,30 @@
+Hypothesis Testing
+Formulate the null and alternative hypothesis for the following statements.
+
+a. We want to test whether the mean GPA of students in American colleges is different from 2.0
+(out of 4.0).
+
+a) Ho = 2.0
+   Ha != 2.0
+   It will be two - tail test
+
+
+b. We want to test whether the mean height of eighth graders is 66 inches.
+
+b)  Ho = 66 inch
+    Ha != 66 inch
+    It will be two - tail test
+
+
+C We want to test if college students take less than five years to graduate from college, on the
+average.
+
+c) Ho >= 5 years
+   Ha < 5 years
+   Upper - level test
+
+D We want to test if it takes fewer than 45 minutes to teach a lesson plan.
+
+D)  Ho <= 45 min
+    Ha > 45 min
+    Lower - level test
